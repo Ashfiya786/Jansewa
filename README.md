@@ -1,7 +1,6 @@
 ##### This Web-App is Live and Running At the following
 #### https://jansewa.vercel.app/
 
- - don't forget to leave a star ! :)
 
 ## Features
 
